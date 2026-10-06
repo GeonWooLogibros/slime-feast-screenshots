@@ -6,3 +6,10 @@
 - gameplay.jpg: 플레이 화면
 
 플레이: https://claude.ai/artifact/924B6JA2fV3szey8uBQVQY
+
+## 검 강화하기
+
+- sword-enchant/start.jpg: 시작 화면
+- sword-enchant/enhance.jpg: 강화 화면
+
+플레이: https://claude.ai/artifact/LLrkFtJ2W7pXpWNpXJFdqh
